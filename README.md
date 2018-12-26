@@ -1,0 +1,1 @@
+# Ampare-String-To-Charcode
